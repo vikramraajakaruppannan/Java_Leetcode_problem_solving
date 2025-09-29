@@ -1,0 +1,4 @@
+Codeforces Problem
+1.Newpalindrome
+2.Prefixes
+3.StringEqualization
